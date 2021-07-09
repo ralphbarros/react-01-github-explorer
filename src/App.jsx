@@ -1,5 +1,5 @@
-export function App() {
-    throw new Error("Novo erro colocado");
+import './styles/global.scss'
 
-    return <h1> Hello World 2 </h1>
+export function App() {
+  return <h1> Hello World s2 </h1>
 }
